@@ -1,5 +1,3 @@
-# lisez-moi
-
 <h1 align="center">Hey nerds, I'm Anna-Jane</h1>
 <h3 align="center">A passionate mechatronics engineering student from Lebanon</h3>
 

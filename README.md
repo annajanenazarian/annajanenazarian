@@ -1,8 +1,6 @@
 <h1 align="center">Hello there! I'm Anna-Jane</h1>
 <h3 align="center">A passionate mechatronics engineering student from Lebanon</h3>
 
-- 🔭 I’m currently working on **my final year project! A robot using Klann Mechanism**
-
 - 🌱 I’m currently learning **robotics**
 
 - 📫 How to reach me **annajanenazarian@outlook.com**
